@@ -1,3 +1,0 @@
-# testgitpages
-
-words and words!
