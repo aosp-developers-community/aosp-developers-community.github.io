@@ -16,8 +16,8 @@ We have an IRC channel here @ somewhere on the somenet network
 
 Just so we can find each others work, here are links to various independent AOSP focused efforts going on in the community.
 
-[something1](http://nowhere)
+[something1](http://nowhere) - Project1 which is doing really cool things with fobar boards and fuzbits!
 
-[something2](http://nowhere)
+[something2](http://nowhere) - Project2 is working on a generic widgetHAL
 
-[something3](http://nowhere)
+[something3](http://nowhere) - Project3 is a fuzbit for bazboards
