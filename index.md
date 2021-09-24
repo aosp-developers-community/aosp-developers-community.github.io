@@ -21,3 +21,9 @@ Just so we can find each others work, here are links to various independent AOSP
 [something2](http://nowhere) - Project2 is working on a generic widgetHAL
 
 [something3](http://nowhere) - Project3 is a fuzbit for bazboards
+
+
+### Join in!
+
+This is a community project! So if you want to add a link to your own project, check out the github repo, make a change and submit a pull request!
+As long as your actively working with AOSP, and not doing anything terrible, we'll add your link!
