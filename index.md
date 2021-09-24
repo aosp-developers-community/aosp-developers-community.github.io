@@ -23,6 +23,9 @@ Just so we can find each others work, here are links to various independent AOSP
 [something3](http://nowhere) - Project3 is a fuzbit for bazboards
 
 
+### [Blog Updates] (https://johnstultz-work.github.io/testgitpages/blog.html)
+
+
 ### Join in!
 
 This is a community project! So if you want to add a link to your own project, check out the github repo, make a change and submit a pull request!
