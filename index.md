@@ -17,5 +17,7 @@ We have an IRC channel here @ somewhere on the somenet network
 Just so we can find each others work, here are links to various independent AOSP focused efforts going on in the community.
 
 [something1](http://nowhere)
+
 [something2](http://nowhere)
+
 [something3](http://nowhere)
