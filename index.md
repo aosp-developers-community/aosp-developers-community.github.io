@@ -23,9 +23,9 @@ Just so we can find each others work, here are links to various independent AOSP
 [something3](http://nowhere) - Project3 is a fuzbit for bazboards
 
 
-### Blogggg
-[Blog Updates] (https://johnstultz-work.github.io/testgitpages/blog.html)
+### [Blog Updates](https://johnstultz-work.github.io/testgitpages/blog.html)
 
+Check out whats been going on!
 
 ### Join in!
 
