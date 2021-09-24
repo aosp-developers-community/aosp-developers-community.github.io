@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## AOSP Developers Community
 
-You can use the [editor on GitHub](https://github.com/johnstultz-work/testgitpages/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the AOSP Developers Community!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We're just folks who are working with boards and devices against the AOSP project.
 
-### Markdown
+### Mailing list
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here is where we would [link](https://nowhere) to a mailing list if we had one.
 
-```markdown
-Syntax highlighted code block
+### IRC
 
-# Header 1
-## Header 2
-### Header 3
+We have an IRC channel here @ somewhere on the somenet network
 
-- Bulleted
-- List
+### Community Projects
 
-1. Numbered
-2. List
+Just so we can find each others work, here are links to various independent AOSP focused efforts going on in the community.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/johnstultz-work/testgitpages/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[something1](http://nowhere)
+[something2](http://nowhere)
+[something3](http://nowhere)
