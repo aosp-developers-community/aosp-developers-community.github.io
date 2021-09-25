@@ -4,6 +4,10 @@ Welcome to the AOSP Developers Community!
 
 We're just folks who are working with boards and devices against the AOSP project.
 
+### [Blog Updates](https://johnstultz-work.github.io/testgitpages/blog.html)
+
+Check out recent happening in the community!
+
 ### Mailing list
 
 Here is where we would [link](https://nowhere) to a mailing list if we had one.
@@ -22,10 +26,6 @@ Just so we can find each others work, here are links to various independent AOSP
 
 [something3](http://nowhere) - Project3 is a fuzbit for bazboards
 
-
-### [Blog Updates](https://johnstultz-work.github.io/testgitpages/blog.html)
-
-Check out whats been going on!
 
 ### Join in!
 
