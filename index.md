@@ -14,7 +14,7 @@ Here is where we would [link](https://nowhere) to a mailing list if we had one.
 
 ### IRC
 
-We have an IRC channel here @ somewhere on the somenet network
+We have an IRC channel #aosp-developers @ [OFTC.net](https://webchat.oftc.net/?channels=%23aosp-developers)
 
 ### Community Projects
 
