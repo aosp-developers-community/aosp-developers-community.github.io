@@ -16,7 +16,7 @@ Here is where we would [link](https://nowhere) to a mailing list if we had one.
 
 We have an IRC channel #aosp-developers @ [OFTC.net](https://webchat.oftc.net/?channels=%23aosp-developers)
 
-You can also join via matrix bridge [element.io](https://app.element.io/) seems to work.
+You can also join via matrix bridge - [element.io](https://app.element.io/) seems to work.
 
 ### Community Projects
 
