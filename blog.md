@@ -1,17 +1,17 @@
 ## AOSP Developers Community - Blog
 
-Recent* highlights from the AOSP Developers Community!
+Recent[*1] highlights from the AOSP Developers Community!
 
-*Ha! If the early 2000 taught us anything about blogs, it will most certainly going to be out of date!
+[1] Ha! If the early 2000s taught us anything about blogs, it will most certainly going to be out of date!
 
-### Linux Plumbers Android Microconference
+### 2022 Linux Plumbers Android Microconference Prep
 
-Here are some links to good discussions from the android microconf!
+The Linux Plumbers Conference has opened its call for microconferences. So planning for this year's conference will likely begin soon. If you have ideas for sessions, please reach out. 
 
-[one talk](http://nowhere) was interesting!
+### 2021 Linux Plumbers Android Microconference
 
-[another talk](http://nowhere) was cool!
+The full schedule w/ slides are [here](https://lpc.events/event/11/sessions/117/#all)
 
-[john's talk](http://nowhere) was so-so!
+The full video is [here](https://www.youtube.com/watch?v=aRbxBeaFf54)
 
-
+There are lots of good talks in there, but maybe most relevant to the creation of this AOSP developers community group is John Stultz' talk on [improving AOSP devboard collaboration](https://youtu.be/aRbxBeaFf54?t=11669).
