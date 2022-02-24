@@ -4,7 +4,7 @@ Welcome to the AOSP Developers Community!
 
 We're just folks who are working with boards and devices against the AOSP project.
 
-### [Blog Updates](https://johnstultz-work.github.io/testgitpages/blog.html)
+### [Blog Updates](https://aosp-developers-community.github.io/overview/blog.html)
 
 Check out recent happening in the community!
 
@@ -15,6 +15,8 @@ Here is where we would [link](https://nowhere) to a mailing list if we had one.
 ### IRC
 
 We have an IRC channel #aosp-developers @ [OFTC.net](https://webchat.oftc.net/?channels=%23aosp-developers)
+
+You can also join via matrix bridge [element.io](https://app.element.io/) seems to work.
 
 ### Community Projects
 
