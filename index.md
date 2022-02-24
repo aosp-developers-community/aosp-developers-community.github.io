@@ -1,35 +1,44 @@
-## AOSP Developers Community
+# About
 
 Welcome to the AOSP Developers Community!
 
-We're just folks who are working with boards and devices against the AOSP project.
+This website is a common hub for developers with a shareed interesting in
+reducing code duplication in Android HALs. Often we find that a lot of devices
+contain very similar code, with minimal changes to support device specific
+features.
 
-### [Blog Updates](https://aosp-developers-community.github.io/overview/blog.html)
+We'd like to shift the focus of AOSP development towards writing code which can
+benefit the whole community, by focusing on upstream Linux APIs and generic
+interfaces.
+
+## [Blog Updates](https://aosp-developers-community.github.io/overview/blog.html)
 
 Check out recent happening in the community!
 
-### Mailing list
+## Join in!
 
-Here is where we would [link](https://nowhere) to a mailing list if we had one.
+This is a community project, so if you're working on AOSP for a board or device
+we'd love to hear about it! You can come chat with us on IRC or matrix (see
+links below), simply open a pull request to add your project to the link below
+and we'd be happy to include it!
 
-### IRC
+### Come chat with us
 
-We have an IRC channel #aosp-developers @ [OFTC.net](https://webchat.oftc.net/?channels=%23aosp-developers)
+We have an IRC channel #aosp-developers @
+[OFTC.net](https://webchat.oftc.net/?channels=%23aosp-developers)
 
-You can also join via matrix bridge - [element.io](https://app.element.io/) seems to work.
+You can also join via matrix using a client like
+[element.io](https://app.element.io/), simply click [this
+link](https://matrix.to/#/#_oftc_#aosp-developers:matrix.org) or join
+`#_oftc_#aosp-developers:matrix.org`.
 
 ### Community Projects
 
-Just so we can find each others work, here are links to various independent AOSP focused efforts going on in the community.
+Just so we can find each others work, here are links to various independent AOSP
+focused efforts going on in the community.
 
-[something1](http://nowhere) - Project1 which is doing really cool things with fobar boards and fuzbits!
+[Force Feedback haptics hal](https://github.com/aospm/external_vibrator-ff) - A generic haptics HAL which supports drivers using the force feedback API via input class devices.
 
 [something2](http://nowhere) - Project2 is working on a generic widgetHAL
 
 [something3](http://nowhere) - Project3 is a fuzbit for bazboards
-
-
-### Join in!
-
-This is a community project! So if you want to add a link to your own project, check out the github repo, make a change and submit a pull request!
-As long as your actively working with AOSP, and not doing anything terrible, we'll add your link!
