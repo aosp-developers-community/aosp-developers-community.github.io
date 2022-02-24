@@ -43,4 +43,10 @@ focused efforts going on in the community.
 
 [AOSP devboards](https://source.android.com/setup/build/devices) - Upstream AOSP supports a few devboards maintained collaboratively between Google, Linaro and Baylibre
 
+### Generic HAL Efforts
+
 [Force Feedback haptics hal](https://github.com/aospm/external_vibrator-ff) - A generic haptics HAL which supports drivers using the force feedback API via input class devices.
+
+[drm_hwcomposer](https://gitlab.freedesktop.org/drm-hwcomposer/drm-hwcomposer) - DRM/KMS based HWComposer implementation used on many devices
+
+
