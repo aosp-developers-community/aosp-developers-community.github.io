@@ -11,7 +11,7 @@ We'd like to shift the focus of AOSP development towards writing code which can
 benefit the whole community, by focusing on upstream Linux APIs and generic
 interfaces.
 
-## [Blog Updates](https://aosp-developers-community.github.io/overview/blog.html)
+## [Blog Updates](https://aosp-developers-community.github.io/blog.html)
 
 Check out recent happening in the community!
 
