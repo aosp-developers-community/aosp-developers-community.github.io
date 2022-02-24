@@ -37,8 +37,10 @@ link](https://matrix.to/#/#_oftc_#aosp-developers:matrix.org) or join
 Just so we can find each others work, here are links to various independent AOSP
 focused efforts going on in the community.
 
+[GloDroid](https://glodroid.github.io/) - AOSP environment utilizing upstream kerenl for OrangePi, PinePhone and RaspberryPi devices
+
+[Generic sdm845 device project](https://github.com/aospm/android_device_generic_sdm845) - AOSP device directory to support a variety of sdm845 based devices (OnePlus6, PocoF1, etc)
+
+[AOSP devboards](https://source.android.com/setup/build/devices) - Upstream AOSP supports a few devboards maintained collaboratively between Google, Linaro and Baylibre
+
 [Force Feedback haptics hal](https://github.com/aospm/external_vibrator-ff) - A generic haptics HAL which supports drivers using the force feedback API via input class devices.
-
-[something2](http://nowhere) - Project2 is working on a generic widgetHAL
-
-[something3](http://nowhere) - Project3 is a fuzbit for bazboards
