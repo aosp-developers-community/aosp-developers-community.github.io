@@ -2,7 +2,7 @@
 
 Recent[*1] highlights from the AOSP Developers Community!
 
-[1] Ha! If the early 2000s taught us anything about blogs, it will most certainly going to be out of date!
+[1] Ha! If the early 2000s taught us anything about blogs, this will most certainly be out of date!
 
 ### 2022 Linux Plumbers Android Microconference Prep
 
