@@ -2,12 +2,12 @@
 
 Welcome to the AOSP Developers Community!
 
-This website is a common hub for developers with a shareed interesting in
-reducing code duplication in Android HALs. Often we find that a lot of devices
+This website is a common hub for developers with a shared interest in
+reducing code duplication in AOSP device HALs. Often we find that a lot of devices
 contain very similar code, with minimal changes to support device specific
 features.
 
-We'd like to shift the focus of AOSP development towards writing code which can
+We'd like to shift the focus of AOSP HAL development towards writing code which can
 benefit the whole community, by focusing on upstream Linux APIs and generic
 interfaces.
 
@@ -17,9 +17,9 @@ Check out recent happening in the community!
 
 ## Join in!
 
-This is a community project, so if you're working on AOSP for a board or device
+This is a community project, so if you're working on AOSP for a upstream focused board or device
 we'd love to hear about it! You can come chat with us on IRC or matrix (see
-links below), simply open a pull request to add your project to the link below
+links below), simply open a pull request to add your project to the links below
 and we'd be happy to include it!
 
 ### Come chat with us
