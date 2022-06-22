@@ -49,4 +49,5 @@ focused efforts going on in the community.
 
 [drm_hwcomposer](https://gitlab.freedesktop.org/drm-hwcomposer/drm-hwcomposer) - DRM/KMS based HWComposer implementation used on many devices
 
+[tinyhal](https://github.com/CirrusLogic/tinyhal) - Generic Audio HAL on top of tinyalsa and tinycompress. Configured via XML.
 
